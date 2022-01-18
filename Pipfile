@@ -9,6 +9,7 @@ numpy = "*"
 pandas = "*"
 seaborn = "*"
 jupyterlab = "*"
+mplleaflet = "*"
 
 [dev-packages]
 jedi-language-server = "*"
